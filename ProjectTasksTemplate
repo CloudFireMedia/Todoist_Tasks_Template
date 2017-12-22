@@ -1,4 +1,4 @@
-﻿TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
+TYPE,CONTENT,PRIORITY,INDENT,AUTHOR,RESPONSIBLE,DATE,DATE_LANG,TIMEZONE
 task,* !!Administration!!,4,1,Chad (2130495),,,en,America/Chicago
 ,,,,,,,,
 task,Review !!Event Details!!,4,2,Chad (2130495),Chad (2130495),,en,America/Chicago
@@ -13,7 +13,7 @@ task,Add to !! Master Sunday Announcements !!,4,2,Chad (2130495),Chad (2130495),
 ,,,,,,,,
 task,Update !!CCN Events Promotion Calendar!!,4,2,Chad (2130495),Chad (2130495),,en,America/Chicago
 ,,,,,,,,
-task,Schedule !!Social Media!!,4,2,Chad (2130495),Chad (2130495),,en,America/Chicago
+task,Schedule !!Social Media!!,4,2,Chad (2130495),Chad (2130495),first workday of the month,en,America/Chicago
 ,,,,,,,,
 task,* !!Design!!,4,1,Chad (2130495),,,en,America/Chicago
 ,,,,,,,,
